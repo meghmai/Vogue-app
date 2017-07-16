@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Vogue</string>
+    <string name="studs">Studs</string>
+    <string name="threaders">Threaders</string>
+    <string name="chandeliers">Chandelier</string>
+    <string name="earcuffs">Ear Cuffs</string>
+    <string name="hoops">Hoops</string>
+    <string name="jhumkas">Jhumkas</string>
+    <string name="brand">brand</string>
+    <string name="price">price</string>
+    <string name="editprice">price*</string>
+    <string name="color">color</string>
+    <string name="material">material</string>
+    <string name="closure">closure</string>
+    <string name="hintbrand">Anouk</string>
+    <string name="hintprice">Rs.500</string>
+    <string name="hintcolor">White</string>
+    <string name="hintmaterial">Brass</string>
+    <string name="hintclosure">Fish Hook</string>
+    <string name="availability">availability</string>
+    <string name="editavailability">availability\t*</string>
+    <string name="instock">In Stock</string>
+    <string name="outstock">Out of Stock</string>
+    <string name="quantity">quantity</string>
+    <string name="editquantity">quantity*</string>
+    <string name="hintquantity">50</string>
+    <string name="gap">:</string>
+    <string name="image">set image\t*</string>
+    <string name="title_activity_editor">editor</string>
+    <string name="quantitys">Quantity\t:\t</string>
+    <string name="unknown">Unknown</string>
+    <string name="save">save</string>
+    <string name="brands">brand</string>
+    <string name="prices">price</string>
+    <string name="description">description\t\t:\t</string>
+    <string name="stock">availability\t:\t</string>
+    <string name="quantityl">quantity</string>
+    <string name="sale">Order</string>
+    <string name="add">add to stock</string>
+    <string name="hint">Enter the quantity </string>
+    <string name="delete_dialog_msg">Delete this Product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="id">id</string>
+    <string name="editid">id\t*</string>
+    <string name="hintid">123456</string>
+    <string name="instruction">All the Details with \'*\' are Compulsory</string>
+    <string name="addbutton">+</string>
+    <string name="minusbutton">-</string>
+
+
+</resources>
